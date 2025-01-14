@@ -30,6 +30,7 @@ I am a Software Engineering student at the **Universidad Autónoma de Yucatán (
       <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
       <img src="https://img.shields.io/badge/Engine%20Godot%20-%20%2387CEEB?style=for-the-badge&logo=godot-engine&logoColor=white">
       <img src="https://img.shields.io/badge/GitHub-%20black?style=for-the-badge&logo=GitHub&logoColor=white">
+      <img src="https://img.shields.io/badge/PixelArt%20-%20%236600A1?style=for-the-badge&logo=Aseprite&logoColor=white">
     </div> 
   </span>
 
