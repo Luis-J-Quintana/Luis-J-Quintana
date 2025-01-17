@@ -16,7 +16,6 @@ I am a Software Engineering student at the **Universidad Autónoma de Yucatán (
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
       <img src="https://img.shields.io/badge/C%2B%2B-%20blue?style=for-the-badge&logo=C%2B%2B&logoColor=white">
       <img src="https://img.shields.io/badge/GDScript-%20%2387CEEB?style=for-the-badge&logo=Godot-Engine&logoColor=white">
     </div>
