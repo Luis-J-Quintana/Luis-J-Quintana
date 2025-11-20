@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Luis Quintana </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" width=200px alt="programming" src="https://h7.cl/1eSDh" />
+<img align="right" width=200px alt="programming" src="https://media1.tenor.com/m/sGv2hrQnMHQAAAAd/computer-kyle.gif" />
 
 I am a Software Engineering student at the **Universidad Autónoma de Yucatán (UADY)**, currently in my final year, with plans to graduate in December 2025. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative, and creative.
 
