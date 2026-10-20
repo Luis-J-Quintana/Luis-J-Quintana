@@ -1,35 +1,122 @@
-<h1 align="center"><b>Hi , I'm Luis Quintana </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# Hi 👋! My name is Luis Quintana
 
-<img align="right" width=200px alt="programming" src="https://media1.tenor.com/m/sGv2hrQnMHQAAAAd/computer-kyle.gif" />
+### 🎓 Recent Software Engineering Graduate | Java & Full Stack Developer
 
-I am a Software Engineering student at the **Universidad Autónoma de Yucatán (UADY)**, currently in my final year, with plans to graduate in December 2025. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative, and creative.
+I'm a recent Software Engineering graduate from **Universidad Autónoma de Yucatán (UADY)**, passionate about building web applications, REST APIs, and backend systems.
 
+💻 Experienced in developing applications with **Java, Spring Boot, React, Next.js, and relational databases**.
 
-- 🕵️I'm looking for an internship
-- Outside tech, 🎮 I love playing videogames, 🎵 listening to music
-- 📫 Reach out to me at: <a href="lquintana.work@gmail.com">lquintana.work@gmail.com</a>
+🚀 Currently working on full stack projects, including an e-commerce platform, while continuing to improve my software development skills.
 
-<h2> 🛠 My Skills </h2>
-  <h4>Programming Languages:</h4>
-  <span>
-    <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-      <img src="https://img.shields.io/badge/C%2B%2B-%20blue?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-      <img src="https://img.shields.io/badge/GDScript-%20%2387CEEB?style=for-the-badge&logo=Godot-Engine&logoColor=white">
-    </div>
+🌱 Interested in Java development, backend engineering, and full stack opportunities.
 
-  </span>
+---
 
+### 🌐 Connect with me
 
-  <h4> Other Tools and Technologies: </h4> 
-  <span>
-    <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
-      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-      <img src="https://img.shields.io/badge/Engine%20Godot%20-%20%2387CEEB?style=for-the-badge&logo=godot-engine&logoColor=white">
-      <img src="https://img.shields.io/badge/GitHub-%20black?style=for-the-badge&logo=GitHub&logoColor=white">
-      <img src="https://img.shields.io/badge/PixelArt%20-%20%236600A1?style=for-the-badge&logo=Aseprite&logoColor=white">
-    </div> 
-  </span>
+<div align="left">
+  <a href="https://github.com/Luis-J-Quintana">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/quintalui01">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
+  </a>
+  <a href="https://luisquintana-portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=firefox&logoColor=white" height="35" alt="Portfolio" />
+  </a>
+</div>
 
+---
+
+### 🛠️ Technologies & Tools
+
+**Languages**
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img width="12" />
+</div>
+
+**Frameworks & Libraries**
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="Next.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
+</div>
+
+**Databases & Tools**
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle Database" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+**🛍️ Calzados Juárez — E-commerce Platform**
+
+Full stack e-commerce platform for wholesale and retail footwear sales.
+
+- Building a modern storefront with Next.js and Tailwind CSS.
+- Integrating Medusa.js for product and commerce management.
+- Working with PostgreSQL, Supabase, and Docker.
+- Developing catalog browsing and shopping experiences.
+
+🔗 [View repository](https://github.com/Luis-J-Quintana/Ecommerce-CalzdadosJuarez)
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Luis-J-Quintana&show_icons=true&include_all_commits=true&theme=gotham&hide_border=false" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-J-Quintana&layout=compact&langs_count=6&theme=gotham&hide_border=false" height="165" alt="Most used programming languages" />
+</div>
+
+---
+
+### 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Luis-J-Quintana/Luis-J-Quintana/snake-output/snake.svg" alt="GitHub contribution snake animation" />
+</div>
+
+---
+
+<div align="center">
+  <i>Always learning, building, and improving. 🚀</i>
+</div>
